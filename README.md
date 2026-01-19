@@ -10,7 +10,7 @@ Business Problem :
 
 Energy providers need accurate power output forecasts to optimize grid load, reduce wastage, and improve energy distribution. This project helps predict wind turbine output using environmental and operational sensor data.
 
-Dataset
+Dataset:
 
 Source: https://drive.google.com/file/d/1Mh1CS2DJ4PuZAkUmn4Xwy96BBdAoZZK4/view
 
@@ -25,16 +25,20 @@ Wind Speed, Ambient Temperature, Nacelle Temp, Reactive Power, Turbine ID, Times
 Tools & Technologies :
 ML / Data	BI / Viz
 Python       	    Power BI
+
 Scikit-learn	    DAX & M-query
+
 Pandas, NumPy   	Slicers, Cards, Area Charts
+
 SQLite, SQL     	Scatter plots, KPIs
 
 ML Models and Performance:
 
-Model           	      RMSE	   MAE    R² Score
-Linear Regression	      1.969 	1.416 	 0.387
-Random Forest	          1.242 	0.923 	 0.756
-Neural Network (MLP)  	2.592	  1.993 	-0.063
+| Model                  | RMSE   | MAE    | R² Score |
+|------------------------|--------|--------|----------|
+| Linear Regression      | 1.969  | 1.416  | 0.387    |
+| Random Forest Regressor| 1.242  | 0.923  | 0.756    |
+| Neural Network (MLP)   | 2.592  | 1.993  | -0.063   |
 
 Best Performer: Random Forest Regressor
 
