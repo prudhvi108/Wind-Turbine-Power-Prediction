@@ -31,10 +31,10 @@ SQLite, SQL     	Scatter plots, KPIs
 
 ML Models and Performance:
 
-Model           	    RMSE	  MAE   	R² Score
-Linear Regression	    1.969 	1.416 	0.387
-Random Forest	        1.242 	0.923 	0.756
-Neural Network (MLP)	2.592	  1.993 	-0.063
+Model           	      RMSE	   MAE    R² Score
+Linear Regression	      1.969 	1.416 	 0.387
+Random Forest	          1.242 	0.923 	 0.756
+Neural Network (MLP)  	2.592	  1.993 	-0.063
 
 Best Performer: Random Forest Regressor
 
