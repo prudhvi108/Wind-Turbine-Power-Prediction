@@ -86,7 +86,7 @@ How to Use :
 
 Clone the repo
 
-git clone https://github.com/your-username/Wind-Turbine-Power-Prediction.git
+git clone https://github.com/prudhvi108/Wind-Turbine-Power-Prediction.git
 
 
 Install dependencies
