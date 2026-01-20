@@ -22,15 +22,16 @@ Key Features:
 
 Wind Speed, Ambient Temperature, Nacelle Temp, Reactive Power, Turbine ID, Timestamp, etc.
 
-Tools & Technologies :
-ML / Data	BI / Viz
-Python       	    Power BI
+Tools & Technologies :   ML / Data	BI / Viz
 
-Scikit-learn	    DAX & M-query
 
-Pandas, NumPy   	Slicers, Cards, Area Charts
+| Python         |  Power BI                   | 
 
-SQLite, SQL     	Scatter plots, KPIs
+| Scikit-learn   | DAX & M-query               | 
+
+| Pandas, NumPy  | Slicers, Cards, Area Charts | 
+
+| SQLite, SQL    | Scatter plots, KPIs         | 
 
 ML Models and Performance:
 
